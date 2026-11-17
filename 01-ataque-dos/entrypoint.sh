@@ -1,5 +1,5 @@
 #!/bin/sh
-TARGET="https://modulo-01-dos-jmposada.onrender.com"
+TARGET="https://servidor-web-dmz-jmposada.onrender.com/"
 
 echo "=== SIMULACIÓN: GENERANDO TRÁFICO MASIVO HTTP ==="
 for i in $(seq 1 30); do
